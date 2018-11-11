@@ -1,0 +1,30 @@
+[submodule "StarAdmin-Free-Bootstrap-Admin-Template"]
+	path = StarAdmin-Free-Bootstrap-Admin-Template
+	url = https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template
+[submodule "Adminator-admin-dashboard"]
+	path = Adminator-admin-dashboard
+	url = https://github.com/puikinsh/Adminator-admin-dashboard
+[submodule "gentelella"]
+	path = gentelella
+	url = https://github.com/puikinsh/gentelella
+[submodule "kiaalap"]
+	path = kiaalap
+	url = https://github.com/puikinsh/kiaalap
+[submodule "paper-dashboard"]
+	path = paper-dashboard
+	url = https://github.com/creativetimofficial/paper-dashboard
+[submodule "now-ui-dashboard"]
+	path = now-ui-dashboard
+	url = https://github.com/creativetimofficial/now-ui-dashboard
+[submodule "carbon"]
+	path = carbon
+	url = https://github.com/mohd-isa/carbon
+[submodule "ElaAdmin"]
+	path = ElaAdmin
+	url = https://github.com/puikinsh/ElaAdmin
+[submodule "black-dashboard"]
+	path = black-dashboard
+	url = https://github.com/creativetimofficial/black-dashboard
+[submodule "nalika"]
+	path = nalika
+	url = https://github.com/puikinsh/nalika
