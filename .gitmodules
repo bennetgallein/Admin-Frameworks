@@ -28,3 +28,6 @@
 [submodule "nalika"]
 	path = nalika
 	url = https://github.com/puikinsh/nalika
+[submodule "sleek-dashboard"]
+	path = sleek-dashboard
+	url = https://github.com/tafcoder/sleek-dashboard

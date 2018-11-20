@@ -30,3 +30,6 @@ No demo
 
 ## Nalika
 ![Nalika](pictures/nalika.png)
+
+## Sleek
+![Sleek](pictures/sleek.png)
