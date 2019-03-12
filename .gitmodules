@@ -34,3 +34,6 @@
 [submodule "octopus"]
 	path = octopus
 	url = https://github.com/puikinsh/octopus
+[submodule "bootadmin"]
+	path = bootadmin
+	url = https://github.com/kjdion84/bootadmin
